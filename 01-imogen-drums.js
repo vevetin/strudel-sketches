@@ -1,4 +1,4 @@
-// 01. Recriando Imogen: A New Kind of Love 
+// 01. Bateria/percussão - Recriando Imogen: A New Kind of Love 
 
 setcpm(130/4)
 
